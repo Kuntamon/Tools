@@ -1,0 +1,13 @@
+#common ports to scan
+list = [
+    21 - FTP (File Transfer Protocol),
+    22 - SSH (Secure Shell),
+    23 - Telnet,
+    25 - SMTP (Mail),
+    80 - HTTP (Web),
+    110 - POP3 (Mail),
+    143 - IMAP (Mail),
+    443 - HTTPS (Secure Web),
+    445 - SMB (Microsoft File Sharing),
+    3389 - RDP (Remote Desktop Protocol),
+]
